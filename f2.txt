@@ -1,3 +1,0 @@
-this is f2.txt
-
-to test push command
